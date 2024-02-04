@@ -9,6 +9,6 @@ The Tech Stack I had used for developing this project is as follows:
 * Backend : Node-js ,Express-js ,Sequelize as (ORM Tool)
 * Database : MySQL
 
-Below is the link to the Frontend branch
-https://github.com/t7surve/Project_Expense_Tracker/tree/Expense_Tracker_Frontend
+ Link to the Frontend branch
+ https://github.com/t7surve/Project_Expense_Tracker/tree/Expense_Tracker_Frontend
 
