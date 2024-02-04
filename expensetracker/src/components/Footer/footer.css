@@ -1,0 +1,21 @@
+/*Footer*/
+footer {
+  font-weight: 200;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0.5rem;
+  color:white;
+  background-color: rgb(0, 0, 0);
+  border-top: 4px solid red;
+}
+
+footer > p {
+  margin: 2rem;
+  font-size: 1.5rem;
+  color:white;
+}
+
+footer i {
+  vertical-align: middle;
+  color:white;
+}
